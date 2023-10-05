@@ -1,0 +1,19 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "arial", sans-serif;
+  height: 100vh;
+  background-image: linear-gradient(30deg, #f433e4, #103666);
+  color: #fff;
+  padding-top: 170px;
+}
+
+h2 {
+  font-size: 4.5rem;
+  text-align: center;
+  /* background-color: #333333; */
+}
